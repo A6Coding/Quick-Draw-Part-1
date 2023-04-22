@@ -1,0 +1,36 @@
+body{
+    background-color: blue;
+    color:white;
+}
+
+#timer{
+    margin-right: 300px;
+    float: right;
+    font-size: 50px;
+}
+
+
+#score{
+    margin-left: 300px;
+    font-size: 50px;
+    float: left;
+}
+
+#user_sketch,#confidence,#sketch_to_be_drawn{
+font-size: 25;
+}
+
+#sketch_to_be_drawn{
+    color:darkorange;
+}
+
+.modal-title{
+    color: black;
+}
+
+
+
+#title{
+    text-align: center;
+    color:darkorange
+}
